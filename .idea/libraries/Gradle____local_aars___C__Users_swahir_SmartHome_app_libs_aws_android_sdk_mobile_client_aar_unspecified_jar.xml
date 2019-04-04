@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\Users\swahir\SmartHome\app\libs\aws-android-sdk-mobile-client.aar:unspecified@jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client.aar/2276591ec5aa47e1bb4ffea73acfe27c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client.aar/2276591ec5aa47e1bb4ffea73acfe27c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

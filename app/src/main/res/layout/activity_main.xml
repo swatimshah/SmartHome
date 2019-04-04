@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#D1C4E9">
+
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/grey_circle"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:text="Switch-1"
+        android:id="@+id/bulb1"
+        />
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="170dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/red_circle"
+        android:textColor="#FFF"
+        android:text="Switch-2"
+        android:id="@+id/bulb2"
+        />
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="310dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/grey_circle"
+        android:textColor="#FFF"
+        android:text="Switch-3"
+        android:id="@+id/bulb3"
+        />
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="450dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/red_circle"
+        android:textColor="#FFF"
+        android:text="Switch-4"
+        android:id="@+id/bulb4"
+        />
+
+
+</RelativeLayout>
